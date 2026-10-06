@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Barani Tharan V 👋
 
-<!--
-**BARANITHARAN-V/BARANITHARAN-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Artificial Intelligence & Data Science Student**
+💻 **Python Learner | Aspiring AI/ML Developer**
+🚀 Currently learning and building projects in AI, Machine Learning and Data Science.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 2nd Year B.Tech AI & Data Science student
+* 🐍 Currently working with Python
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 📊 Interested in Data Science
+* 🌱 Currently learning SQL, NumPy, Pandas and Machine Learning
+* 🚀 Looking for opportunities to learn, build and gain real-world experience
+
+## 🛠️ Skills
+
+**Programming**
+
+* Python
+
+**Currently Learning**
+
+* SQL
+* NumPy
+* Pandas
+* Machine Learning
+* Data Science
+
+## 📚 Currently Learning
+
+```text
+Python → SQL → NumPy/Pandas → Machine Learning → Projects
+```
+
+## 🚀 Projects
+
+### 🔹 Student Marks Prediction
+
+Currently building my first Machine Learning project using Python.
+
+More projects coming soon...
+
+## 🎯 Career Goal
+
+To become a skilled **AI/ML Developer** and build practical solutions using Artificial Intelligence and Data Science.
+
+---
+
+⭐ Thanks for visiting my profile!
+
